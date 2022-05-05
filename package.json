@@ -2,7 +2,7 @@
     "name": "MyHANAApp",
     "version": "1.0.0",
     "description": "A simple CAP project.",
-    "repository": "<Add your repository here>",
+    "repository": "git@github.com:kobico/MyHANAApp.git",
     "license": "UNLICENSED",
     "private": true,
     "dependencies": {
